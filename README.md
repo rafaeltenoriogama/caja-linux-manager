@@ -42,3 +42,5 @@ git clone https://github.com/rafaeltenoriogama/caja-file-manager.git
 ## 🐧 Credits
 
 Hope you all like it, this is for fun aesthetic proposes of an idea that came from a lazy coffee at afternoon. Feel free to contribute.
+
+######
