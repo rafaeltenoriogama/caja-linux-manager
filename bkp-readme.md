@@ -11,6 +11,14 @@
 
 </div>
 
+# Custom Caja File Manager with Dock Integration
+
+This repository contains scripts and resources to:
+
+- Replace **Nautilus** with **Caja** as the default file manager on Ubuntu.
+- Use a **custom icon** for Caja in the GNOME Dock.
+- Avoid **duplicate icons** when launching Caja from the dock.
+
 ## 🗂️ Structure
 
 - `resources/` — Contains the custom icons used.
