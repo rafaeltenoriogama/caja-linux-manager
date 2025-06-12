@@ -1,3 +1,5 @@
+![Display Screen Page](./resources/screen_page.png)
+
 # Custom Caja File Manager with Dock Integration
 
 This repository contains scripts and resources to:
@@ -41,4 +43,4 @@ git clone https://github.com/rafaeltenoriogama/caja-file-manager.git
 
 ## 🐧 Credits
 
-Hope you all like it, this is for fun aesthetic proposes of an idea that came from a coffee in a regular aternoon. Feel free to contribute.
+Hope you all like it, this is for fun aesthetic proposes of an idea that came from a coffee in a regular afternoon. Feel free to contribute.
