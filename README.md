@@ -9,7 +9,7 @@ This repository contains scripts and resources to:
 ## 🗂️ Structure
 
 - `resources/` — Contains the custom icons used.
-- `shell_scripts/` — Contains Linux shell scripts with all steps commented.
+- `sh-scripts/` — Contains Linux shell scripts with all steps commented.
 
 ## 🧩 Features
 
@@ -21,7 +21,7 @@ This repository contains scripts and resources to:
 ## 🔧 Requirements
 
 - Ubuntu 22.04 or later
-- Caja installed
+- Caja
 - GNOME Shell
 - xprop
 
@@ -41,4 +41,4 @@ git clone https://github.com/rafaeltenoriogama/caja-file-manager.git
 
 ## 🐧 Credits
 
-Hope you all like it, this is for fun aesthetic proposes of an idea that came from a lazy coffee at afternoon. Feel free to contribute.
+Hope you all like it, this is for fun aesthetic proposes of an idea that came from a coffee in a regular aternoon. Feel free to contribute.
