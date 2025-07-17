@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Caja
+#The USER_ID will only work if the variable is set on your system
+#If want to avoid the variable, change to your username
+Exec=/home/{USER_ID}/.local/bin/caja-silent %U
+Terminal=false
+Type=Application
+# Below is the path to find the icon
+Icon=/home/{USER_ID}/Downloads/caja-linux-manager/resources/caja-custom-minimalist.png
+StartupWMClass=Caja
+MimeType=inode/directory;application/x-gnome-saved-search;
+# True to appears on the menu
+NoDisplay=true
